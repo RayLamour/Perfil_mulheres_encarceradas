@@ -13,9 +13,9 @@ ____________________________________________
 ____________________________________________
 
 ##  Ferramentas Utilizadas
-** Google Sheets para exploração inicial e limpeza leve
-** Python para tratamento e análise
-** Power BI para visualizações dinâmicas e interativas
+* Google Sheets para exploração inicial e limpeza leve
+* Python para tratamento e análise
+* Power BI para visualizações dinâmicas e interativas
 __________________________________________
 
 ## Principais Insights
